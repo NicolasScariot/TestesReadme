@@ -1,4 +1,4 @@
-# Nícolas Luís Santos 🇧🇷
+# Nícolas Luís Santos 🌡️
 ## Rosineide ⚽
-### Juliano 🇦🇷
-#### Julinha 🇩🇪
+### Juliano 🏁
+#### Julinha 💌
