@@ -3,4 +3,5 @@
 ### Juliano 🏁
 #### __Julinha__ 💌
 
-*[GitHub](https://github.com/NicolasScariot)
+* [GitHub](https://github.com/NicolasScariot)
+1. Nicolas
