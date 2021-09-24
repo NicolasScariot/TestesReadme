@@ -7,8 +7,8 @@
 1. Nicolas
 
 ~~~javascript
-Linha de código em javascript
+Nícolas Luís Santos Scariot
 ~~~
 ~~~php
-Linha de código em php
+Giuliana mal amada
 ~~~
