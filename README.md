@@ -4,7 +4,7 @@
 #### __Julinha__ 💌
 
 * [GitHub](https://github.com/NicolasScariot)
-1. Nicolas
+* Nicolas
 
 Exemplo   | Valor do exemplo
 --------- | ------
