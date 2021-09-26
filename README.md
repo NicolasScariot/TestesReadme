@@ -1,12 +1,18 @@
-# Intuíto da atividade
-> Essa atividade foi criada com o intuito 
 
-## Integrantes 
-* [Kelvin Ribeiro](https://github.com/Kelvin-rnov/)
-* [Lígia Alves](https://github.com/LigiaAlves/)
-* [Nícolas Scariot](https://github.com/NicolasScariot)
+# Sobre
+Este projeto foi proposto pelo Senai, para que pudéssemos treinar o clone de interfaces de certas plataformas ou rede sociais comuns hoje em dia. 
+Usamos o React prática, trabalhando em conjunto. Além disso, pudemos trabalhar com a metodologia SCRUM e nos familiarizamos com a ferramenta Canva.
+
+
+## Organização de tarefas
+Nós utilizamos, para a organização dos projetos, a ferramenta trello. Focamos nas metodologias ágeis SCRUM e Kamban para melhor proveitamento de tempo e recursos.
+
+## Autores
+* [Kelvin](https://github.com/Kelvin-rnov/)
+* [Lígia](https://github.com/LigiaAlves/)
+* [Nícolas ](https://github.com/NicolasScariot)
 * [Pedro](https://github.com/pedrooks3034/)
-* [Vinícius Nascimento](https://github.com/ViniciusNB/)
+* [Vinícius](https://github.com/ViniciusNB/)
 * [Síntia](https://github.com/sintiathafeny)
 
 Ferramentas usadas   |
