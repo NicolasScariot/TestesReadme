@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="img\.png" width="300px" title="hover text">
+</p>
 # Sobre
 Este projeto foi proposto pelo Senai, para que pudéssemos treinar o clone de interfaces de certas plataformas ou rede sociais comuns hoje em dia. 
 Usamos o React prática, trabalhando em conjunto. Além disso, pudemos trabalhar com a metodologia SCRUM e nos familiarizamos com a ferramenta Canva.
