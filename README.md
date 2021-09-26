@@ -5,7 +5,7 @@
 * [Pedro](https://github.com/pedrooks3034/)
 * [Vinícius Nascimento](https://github.com/ViniciusNB/)
 * [Síntia](https://github.com/sintiathafeny)
-* 
+
 Ferramentas usadas   |
 |--------- |
 API TBDB | 
