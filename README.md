@@ -1,3 +1,6 @@
+# Intuíto da atividade
+> Essa atividade foi criada com o intuito 
+
 ## Integrantes 
 * [Kelvin Ribeiro](https://github.com/Kelvin-rnov/)
 * [Lígia Alves](https://github.com/LigiaAlves/)
@@ -11,5 +14,5 @@ Ferramentas usadas   |
 API TBDB | 
 VS Code | 
 React JS | 
-Exemplo 4 | 
+
 
