@@ -8,7 +8,7 @@ Este projeto foi proposto pelo Senai, para que pudéssemos treinar o clone de in
 Usamos o React prática, trabalhando em conjunto. Além disso, pudemos trabalhar com a metodologia SCRUM e nos familiarizamos com a ferramenta Canva.
 
 
-## Organização de tarefas
+## Organização de tarefas 🧑‍🤝‍🧑
 Nós utilizamos, para a organização dos projetos, a ferramenta trello. Focamos nas metodologias ágeis SCRUM e Kamban para melhor proveitamento de tempo e recursos.
 
 <p align="center">
@@ -23,11 +23,12 @@ Nós utilizamos, para a organização dos projetos, a ferramenta trello. Focamos
 * [Vinícius](https://github.com/ViniciusNB/)
 * [Síntia](https://github.com/sintiathafeny)
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias usadas
 
 * [API TMDB](https://www.themoviedb.org/?language=pt-BR) 
 * [VS Code](https://code.visualstudio.com/)
 * [React JS](https://pt-br.reactjs.org/)
 * [NodeJS](https://nodejs.org/en/)
 
-
+### Créditos 
+* [Bonieky Lacerda](https://www.youtube.com/watch?v=tBweoUiMsDg)
