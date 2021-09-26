@@ -3,14 +3,17 @@
 ### Juliano 🏁
 #### __Julinha__ 💌
 
-* [GitHub](https://github.com/NicolasScariot)
-* Nicolas
-
-Exemplo   |
+* [Kelvin Ribeiro](https://github.com/Kelvin-rnov/)
+* [Lígia Alves](https://github.com/LigiaAlves/)
+* [Nícolas Scariot](https://github.com/NicolasScariot)
+* [Pedro](https://github.com/pedrooks3034/)
+* [Vinícius Nascimento](https://github.com/ViniciusNB/)
+* [Síntia](https://github.com/sintiathafeny)
+Ferramentas usadas   |
 --------- |
-Exemplo 1 | 
-Exemplo 2 | 
-Exemplo 3 | 
+API TBDB | 
+VS Code | 
+React JS | 
 Exemplo 4 | 
 
 Alinhado a esquerda | Centralizado | Alinhado a direita
