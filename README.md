@@ -29,6 +29,8 @@ Nós utilizamos, para a organização dos projetos, a ferramenta trello. Focamos
 * [VS Code](https://code.visualstudio.com/)
 * [React JS](https://pt-br.reactjs.org/)
 * [NodeJS](https://nodejs.org/en/)
+* [REST](https://resttesttest.com/)
+* [JSON Viewer](http://jsonviewer.stack.hu/)
 
 ### Créditos 
 * [Bonieky Lacerda](https://www.youtube.com/watch?v=tBweoUiMsDg)
