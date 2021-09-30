@@ -3,9 +3,8 @@
   <img src="img\netflix.png" width="400px" title="hover text">
 </p>
 
-# Sobre
-Este projeto foi proposto pelo Senai, para que pudéssemos treinar o clone de interfaces de certas plataformas ou rede sociais comuns hoje em dia. 
-Usamos o React prática, trabalhando em conjunto. Além disso, pudemos trabalhar com a metodologia SCRUM e nos familiarizamos com a ferramenta Canva.
+# Sobre📖
+Este projeto foi proposto pelo Professor Átila Olivi que ensina na escola SENAI Suiço.A atividade tem o intuíto de treinar o clone de interfaces de certas plataformas ou rede sociais comuns hoje em dia. Usamos o React, trabalhando em conjunto. Além disso, pudemos trabalhar com a metodologia SCRUM e nos familiarizamos com a ferramenta Canva.
 
 
 ## Organização de tarefas 🧑‍🤝‍🧑
